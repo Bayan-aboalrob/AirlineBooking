@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tpzrfVt5hAKiz+D/fTYaOd0d4VdbUKtWHBS3+H+VAJSINLN5TQseedOwXQiY6T5XygsEmUp3jqUGzSnwLZ5zyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\University Files\\BayanAboalrob.ComputerSystemEngineering\\Trainings\\FTS ASP.NET\\C#\\TASKS\\Airline Ticket Booking System\\AirlineBooking\\AirlineBooking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
